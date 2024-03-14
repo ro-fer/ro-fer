@@ -42,6 +42,10 @@
                 <li><a href="https://github.com/ro-fer/Procedimiento_de_Imagenes">Procesamiento de Imagenes</a></li>
             </ul>
             <li>Diplomatura</li>
+            <li>Retos de Programación</li>
+            <ul>
+                <li><a href="#">Python</a></li>
+            </ul>
         </ul>
     </section>
      <section id="redes">
