@@ -39,7 +39,7 @@
         <ul>
             <li>Universidad</li>
             <ul>
-                <li><a href="#">Procesamiento de Imagenes</a></li>
+                <li><a href="https://github.com/ro-fer/Procedimiento_de_Imagenes">Procesamiento de Imagenes</a></li>
             </ul>
             <li>Diplomatura</li>
         </ul>
