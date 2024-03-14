@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1 align="center"> Hola, mi nombre Ro Fer </h1>
+        <h1 align="center"> Hola, mi nombre es Ro Fer </h1>
         <p>Estudiante de Ingenieria Biomedica - UNSAM</p>
         <nav>
             <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
@@ -45,7 +45,7 @@
         </ul>
     </section>
      <section id="redes">
-        <h2> Mis redes son: </h2>
+        <h2> Mis redes son:</h2>
         <a href="https://www.linkedin.com/in/rocio-bfernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="sol-catald" height="30" width="40" /></a>
      </section>
 </body>
