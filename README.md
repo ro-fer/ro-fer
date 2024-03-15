@@ -8,7 +8,7 @@
 <body>
     <header>
         <h1 align="center"> Hola, mi nombre es Ro Fer </h1>
-        <p align="center">Estudiante de Ingenieria Biomedica - UNSAM</p>
+        <p align="center"><em>Estudiante de Ingenieria Biomedica - UNSAM</em></p>
         <nav> 
             <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
                        <th>
