@@ -13,7 +13,7 @@
             <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
                        <th>
                            <td><a href="#estudios"> Estudios</a></td> 
-                           <td><a href="#lenguajes"> Lenguajes</a></td>
+                           <td><a href="#lenguajes"> Lenguajes y Herramientas</a></td>
                             <td><a href='#proyectos'> Proyectos </a></td>
                            <td><a href="#redes"> Redes</a></td>
                        </th>
@@ -28,7 +28,7 @@
         </ul>
     </section>
     <section id="lenguajes">
-      <h2>Lenguajes que estoy aprendiendo:</h2>
+      <h2>Lenguajes y Herramientas que estoy aprendiendo:</h2>
       <p align="left">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
