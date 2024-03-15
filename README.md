@@ -8,8 +8,8 @@
 <body>
     <header>
         <h1 align="center"> Hola, mi nombre es Ro Fer </h1>
-        <p>Estudiante de Ingenieria Biomedica - UNSAM</p>
-        <nav>
+        <p align="center">Estudiante de Ingenieria Biomedica - UNSAM</p>
+        <nav> 
             <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
                        <th>
                            <a href="#estudios"> Estudios</a></td> 
