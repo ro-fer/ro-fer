@@ -12,7 +12,7 @@
         <nav>
             <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
                        <th>
-                           <td><a href="#estudios"> Estudios</a></td> 
+                           <a href="#estudios"> Estudios</a></td> 
                            <td><a href="#lenguajes"> Lenguajes y Herramientas</a></td>
                             <td><a href='#proyectos'> Proyectos </a></td>
                            <td><a href="#redes"> Redes</a></td>
