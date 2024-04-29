@@ -41,6 +41,11 @@
             <ul>
                 <li><a href="https://github.com/ro-fer/Procedimiento_de_Imagenes">Procesamiento de Imagenes</a></li>
             </ul>
+            <li>Full Strack Java - Codo a Codo</li>
+            <ul>
+                <li><a href="https://ro-fer.github.io/Turisteando-siendo-Nativx/">"Turisteando siendo Nativx"</a></li>
+                <small>Primera página. Pre-entrega. Primera versión Abril 2024. </small>
+            </ul>
             <li>Diplomatura</li>
             <li>Retos de Programación</li>
             <ul>
