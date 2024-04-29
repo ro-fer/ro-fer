@@ -24,7 +24,11 @@
         <h2>Estudios</h2>
         <ul>
           <li>Ingeniería Biomédica - Universidad Nacional San Martin (Buenos Aires, Argentina) - En curso </li>
-          <li>Diplomatura en Ciencias de Datos e Inteligencia Artificial - Argentina Programa - Universidad Nacional de San Martin (2023)</li>
+            <ul><a href="https://www.unsam.edu.ar/escuelas/ecyt/172/ciencia/ingenieria-biomedica" target="_blank" >Plan de estudios</a></ul>
+            <li>Full Strack Java - Codo a Codo - En curso </li>
+            <ul><a href="https://drive.google.com/file/d/1SSwNBdJUy-5h4A4aZHiOYTUvM8qEGYMi/view?usp=drive_link" target="_blank" >Plan de estudios</a></ul>
+          <li>Diplomatura en Ciencias de Datos e Inteligencia Artificial - Argentina Programa - Universidad Nacional de San Martin (2023) </li>
+            <ul><a href="https://www.argentina.gob.ar/sites/default/files/5._unsam_-_ciencia_de_datos_e_inteligencia_artificial.pdf" target="_blank" >Plan de estudios</a></ul>
         </ul>
     </section>
     <section id="lenguajes">
@@ -39,17 +43,17 @@
         <ul>
             <li>Universidad</li>
             <ul>
-                <li><a href="https://github.com/ro-fer/Procedimiento_de_Imagenes">Procesamiento de Imagenes</a></li>
+                <li><a href="https://github.com/ro-fer/Procedimiento_de_Imagenes " target="_blank">Procesamiento de Imagenes</a></li>
             </ul>
             <li>Full Strack Java - Codo a Codo</li>
             <ul>
-                <li><a href="https://ro-fer.github.io/Turisteando-siendo-Nativx/">"Turisteando siendo Nativx"</a></li>
+                <li><a href="https://ro-fer.github.io/Turisteando-siendo-Nativx/" target="_blank">"Turisteando siendo Nativx"</a></li>
                 <small>Primera página. Pre-entrega. Primera versión Abril 2024. </small>
             </ul>
             <li>Diplomatura</li>
             <li>Retos de Programación</li>
             <ul>
-                <li><a href="#">Python</a></li>
+                <li><a href="#" target="_blank">Python</a></li>
             </ul>
         </ul>
     </section>
