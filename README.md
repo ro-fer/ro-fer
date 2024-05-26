@@ -49,6 +49,8 @@
             <ul>
                 <li><a href="https://ro-fer.github.io/Turisteando-siendo-Nativx/" target="_blank">"Turisteando siendo Nativx"</a></li>
                 <small>Primera página. Pre-entrega. Primera versión Abril 2024. </small>
+                <li><a href="https://matirnc.github.io/ProyectoCaC_FullStack_Java/">"Tusiteando siendo Nativx"</a></li>
+                <small>Primera pre entrega grupal. Integrantes: </small>
             </ul>
             <li>Diplomatura</li>
             <li>Retos de Programación</li>
