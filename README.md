@@ -53,9 +53,10 @@
                 <small>Primera pre entrega grupal. Integrantes: </small>
             </ul>
             <li>Diplomatura</li>
-            <li>Retos de Programación</li>
+            <li>FreeCodeCamp</li>
+            <small><i>Proyectos de practica para los certificados de <a href="https://www.freecodecamp.org/espanol/roh__fer" target="_blank">FreeCodeCamp</a></i></small>
             <ul>
-                <li><a href="#" target="_blank">Python</a></li>
+                <li><a href="https://ro-fer.github.io/pagina-python/" target="_blank">Página web documentación Python</a></li>
             </ul>
         </ul>
     </section>
