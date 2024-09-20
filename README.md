@@ -62,7 +62,7 @@
     </section>
      <section id="redes">
         <h2> Mis redes son:</h2>
-        <a href="https://www.linkedin.com/in/rocio-bfernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="sol-catald" height="30" width="40" /></a>
+        <a href="https://www.linkedin.com/in/rocio-bfernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rocio-bfernandez" height="30" width="40" /></a>
      </section>
 </body>
 </html>
