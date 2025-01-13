@@ -25,7 +25,9 @@
         <ul>
           <li>Ingeniería Biomédica - Universidad Nacional San Martin (Buenos Aires, Argentina) - En curso </li>
             <ul><a href="https://www.unsam.edu.ar/escuelas/ecyt/172/ciencia/ingenieria-biomedica" target="_blank" >Plan de estudios</a></ul>
-            <li>Full Strack Java - Codo a Codo - En curso </li>
+            <li>Diseño UX / UI- Codo a Codo - 2do Cuatrimestre 2024</li>
+            <ul><a href="#" target="_blank" >Plan de estudios</a></ul>
+            <li>Full Strack Java - Codo a Codo - 1er Cuatrimestre 2024</li>
             <ul><a href="https://drive.google.com/file/d/1SSwNBdJUy-5h4A4aZHiOYTUvM8qEGYMi/view?usp=drive_link" target="_blank" >Plan de estudios</a></ul>
           <li>Diplomatura en Ciencias de Datos e Inteligencia Artificial - Argentina Programa - Universidad Nacional de San Martin (2023) </li>
             <ul><a href="https://www.argentina.gob.ar/sites/default/files/5._unsam_-_ciencia_de_datos_e_inteligencia_artificial.pdf" target="_blank" >Plan de estudios</a></ul>
@@ -44,6 +46,9 @@
             <li>Universidad</li>
             <ul>
                 <li><a href="https://github.com/ro-fer/Procedimiento_de_Imagenes " target="_blank">Procesamiento de Imagenes</a></li>
+                <ul>
+                    <li><a href="https://github.com/ro-fer/TP-Final-Procesamiento-Imagenes" target="_blank">Trabajo Final</a></li>
+                </ul>
                 <li><a href="https://github.com/ro-fer/Electronica_Digital_II" target="_blank">Electrónica Dígital II</a></li>
             </ul>
             <li>Full Strack Java - Codo a Codo</li>
