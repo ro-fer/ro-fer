@@ -44,6 +44,7 @@
             <li>Universidad</li>
             <ul>
                 <li><a href="https://github.com/ro-fer/Procedimiento_de_Imagenes " target="_blank">Procesamiento de Imagenes</a></li>
+                <li><a href="https://github.com/ro-fer/Electronica_Digital_II" target="_blank">Electrónica Dígital II</a></li>
             </ul>
             <li>Full Strack Java - Codo a Codo</li>
             <ul>
