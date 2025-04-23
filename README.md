@@ -78,7 +78,6 @@
                 <li><a href="h https://github.com/ro-fer/Desafios_Programacion/tree/main?tab=readme-ov-file" target="_blank">"Desafios de Programación"</a></li>
                 <small>Desafios hechos por el momento en python, sacados de distintas paginas de desafios. </small>
             </ul>
-           
             <li>Diplomatura</li>
             <li>FreeCodeCamp</li>
             <small><i>Proyectos de practica para los certificados de <a href="https://www.freecodecamp.org/espanol/roh__fer" target="_blank">FreeCodeCamp</a></i></small>
