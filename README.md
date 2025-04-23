@@ -75,7 +75,7 @@
                 <small>Primera version con recursos útiles para estudiantes universitarios.</small>
             </ul>
             <ul>
-                <li><a href="h https://github.com/ro-fer/Desafios_Programacion/tree/main?tab=readme-ov-file" target="_blank">"Desafios de Programación"</a></li>
+                <li><a href="h https://github.com/ro-fer/Desafios_Programacion" target="_blank">"Desafios de Programación"</a></li>
                 <small>Desafios hechos por el momento en python, sacados de distintas paginas de desafios. </small>
             </ul>
             <li>Diplomatura</li>
