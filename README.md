@@ -49,28 +49,27 @@ Me encanta aprender programando, resolver desafíos y crear soluciones útiles �
 
 ## 🎯 Proyectos Destacados 
 
-### 🧪 BioGeeks  
+### [🧪 BioGeeks ](https://github.com/ro-fer/BioGeeks)  
 > Sitio web hecho con HTML, CSS y JavaScript para estudiantes universitarios. Inspirado en mi cuenta de difusión científica en Instagram.  
-🔗 [Ver proyecto](https://github.com/ro-fer/BioGeeks) 
 
-### 📚 Página de Recursos  
+
+### [📚 Página de Recursos](https://github.com/ro-fer/Pagina-de-recursos)  
 > Mi primer proyecto personal para compartir herramientas educativas.  
-🔗 [Ver proyecto](https://github.com/ro-fer/Pagina-de-recursos) 
 
-### 🧠 Desafíos de Programación  
+
+### [🧠 Desafíos de Programación ](https://github.com/ro-fer/Desafios_programacion) 
 > Colección de ejercicios resueltos en Python, tomados de plataformas como FreeCodeCamp.  
-🔗 [Ver proyecto](https://github.com/ro-fer/Desafios_programacion) 
 
-### 🌐 Turisteando siendo Nativx (Proyecto Individual)  
+
+### [🌐 Turisteando siendo Nativx (Proyecto Individual)](https://github.com/ro-fer/Turisteando-siendo-Nativx)   
 > Mi primera página web hecha durante el curso de Codo a Codo.  
-🔗 [Ver proyecto](https://github.com/ro-fer/Turisteando-siendo-Nativx) 
 
-### 🏢 Tusiteando siendo Nativx (Proyecto Grupal)  
+
+###  [🏢 Tusiteando siendo Nativx (Proyecto Grupal) ](https://github.com/ro-fer/TusiTEANDO-siendo-nativx) 
 > Trabajo colaborativo realizado con:
 > - Mati R  
 > - Lau Tallarico  
 > - Nahuel Laluce  
-🔗 [Ver proyecto](https://github.com/ro-fer/TusiTEANDO-siendo-nativx) 
 
 ---
 
