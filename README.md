@@ -11,12 +11,13 @@ También soy creadora de contenido científico en Instagram 🧪📚
 
 <div align="center">
     <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
-                       <th>
-                           <a href="#-sobre-mí">🔍 Sobre mí</a> </td> 
-                           <td><a href="#-tecnologías-que-uso">🔧 Tecnologías que uso</a></td>
-                            <td> <a href="#-proyectos-destacados">🎯 Proyectos Destacados</a></td><td> <a href="#-formación-académica-y-técnica">📚 Formación Académica y Técnica</a></td>
-                           <td><a href="#-redes-sociales">🌐 Redes Sociales</a>/td>
-                       </th>
+      <th>
+        <a href="#-sobre-mí">🔍 Sobre mí</a> </td> 
+        <td><a href="#-tecnologías-que-uso">🔧 Tecnologías que uso</a></td>
+        <td> <a href="#-proyectos-destacados">🎯 Proyectos Destacados</a></td>
+        <td> <a href="#-formación-académica-y-técnica">📚 Formación Académica y Técnica</a></td>
+        <td><a href="#-redes-sociales">🌐 Redes Sociales</a>
+      </th>
     </table>
 </div>
 
@@ -75,25 +76,28 @@ Me encanta aprender programando, resolver desafíos y crear soluciones útiles �
 
 ## 📚 Formación Académica y Técnica
 
-🎓 **Ingeniería Biomédica** – Universidad Nacional de San Martín (UNSAM) – En curso  
-💻 **Full Stack Java** – Codo a Codo – 1er Cuatrimestre 2024  
-🎨 **Diseño UX/UI** – Codo a Codo – 2do Cuatrimestre 2024  
-📊 **Diplomatura en Ciencia de Datos e IA** – Argentina Programa & UNSAM – 2023  
-🎓 **FreeCodeCamp** – Certificaciones en desarrollo web  
+[![UNSAM](https://img.shields.io/badge/UNSAM-Ingeniería_Biomédica-blue?logo=university&logoColor=white)](https://www.unsam.edu.ar)  
+🎓 **Ingeniería Biomédica** – *En curso*
+
+[![Codo a Codo - Java](https://img.shields.io/badge/Codo_a_Codo-Full_Stack_Java-green?logo=java)](https://codoacodo.gob.ar)  
+💻 **Full Stack Java** – *1er Cuatrimestre 2024*
+
+[![Codo a Codo - UX/UI](https://img.shields.io/badge/Codo_a_Codo-Diseño_UX_UI-purple?logo=figma)](https://codoacodo.gob.ar)  
+🎨 **Diseño UX/UI** – *2do Cuatrimestre 2024*
+
+[![Argentina Programa](https://img.shields.io/badge/Argentina_Programa-Ciencia_de_Datos-orange)](https://www.argentina.gob.ar/aprende-con-argentina-programa)  
+📊 **Ciencia de Datos e IA** – *2023*
+
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Certificado-yellow?logo=freecodecamp)](https://www.freecodecamp.org/)  
+🎓 **FreeCodeCamp** – *Certificaciones en desarrollo web*
 
 ---
 
 ## 🌐 Redes Sociales
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-linkedin"> 
+  <a href="https://www.linkedin.com/in/rocio-bfernandez/"> 
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
-  </a>
-  <a href="https://instagram.com/tu-instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="30" />
-  </a>
-  <a href="https://twitter.com/tu-twitter">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30" />
   </a>
 </div>
 
