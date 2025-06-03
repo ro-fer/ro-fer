@@ -76,20 +76,18 @@ Me encanta aprender programando, resolver desafíos y crear soluciones útiles �
 
 ## 📚 Formación Académica y Técnica
 
-[![UNSAM](https://img.shields.io/badge/UNSAM-Ingeniería_Biomédica-blue?logo=university&logoColor=white)](https://www.unsam.edu.ar)  
+[![UNSAM](https://img.shields.io/badge/UNSAM-Ingeniería_Biomédica-blue?logo=university&logoColor=white)](https://www.unsam.edu.ar/escuelas/ecyt/172/ciencia/ingenieria-biomedica)  
 🎓 **Ingeniería Biomédica** – *En curso*
 
-[![Codo a Codo - Java](https://img.shields.io/badge/Codo_a_Codo-Full_Stack_Java-green?logo=java)](https://codoacodo.gob.ar)  
+[![Codo a Codo - Java](https://img.shields.io/badge/Codo_a_Codo-Full_Stack_Java-green?logo=java)](https://drive.google.com/file/d/1SSwNBdJUy-5h4A4aZHiOYTUvM8qEGYMi/view?usp=drive_link)  
 💻 **Full Stack Java** – *1er Cuatrimestre 2024*
 
-[![Codo a Codo - UX/UI](https://img.shields.io/badge/Codo_a_Codo-Diseño_UX_UI-purple?logo=figma)](https://codoacodo.gob.ar)  
+[![Codo a Codo - UX/UI](https://img.shields.io/badge/Codo_a_Codo-Diseño_UX_UI-purple?logo=figma)](#)  
 🎨 **Diseño UX/UI** – *2do Cuatrimestre 2024*
 
-[![Argentina Programa](https://img.shields.io/badge/Argentina_Programa-Ciencia_de_Datos-orange)](https://www.argentina.gob.ar/aprende-con-argentina-programa)  
+[![Argentina Programa](https://img.shields.io/badge/Argentina_Programa-Ciencia_de_Datos-orange)](https://www.argentina.gob.ar/sites/default/files/5._unsam_-_ciencia_de_datos_e_inteligencia_artificial.pdf)  
 📊 **Ciencia de Datos e IA** – *2023*
 
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Certificado-yellow?logo=freecodecamp)](https://www.freecodecamp.org/)  
-🎓 **FreeCodeCamp** – *Certificaciones en desarrollo web*
 
 ---
 
