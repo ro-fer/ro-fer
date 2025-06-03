@@ -1,104 +1,104 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">     
-</head>
-<body>
-    <header>
-        <h1 align="center"> Hola, mi nombre es Ro Fer </h1>
-        <p align="center"><em>Estudiante de Ingenieria Biomedica - UNSAM</em></p>
-        <nav> 
-            <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
+# Hola 👋 Soy Rocío  
+🎓 *Ingeniera Biomédica en formación* | 💻 Apasionada por la tecnología | 🇦🇷 Buenos Aires  
+
+Soy estudiante de **Ingeniería Biomédica** en la UNSAM, complementando mi carrera con formación técnica en **desarrollo Full Stack Java**, **diseño UX/UI** y **ciencia de datos**.  
+Me encanta aprender programando, resolver desafíos y crear soluciones útiles 💡  
+También soy creadora de contenido científico en Instagram 🧪📚  
+
+---
+
+## 📚 Índice
+
+<div align="center">
+    <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
                        <th>
-                           <a href="#estudios"> 📚Estudios</a></td> 
-                           <td><a href="#lenguajes"> 🛠️Lenguajes y Herramientas</a></td>
-                            <td><a href='#proyectos'> 🚀Proyectos </a></td>
-                           <td><a href="#redes"> Redes</a></td>
+                           <a href="#-sobre-mí">🔍 Sobre mí</a> </td> 
+                           <td><a href="#-tecnologías-que-uso">🔧 Tecnologías que uso</a></td>
+                            <td> <a href="#-proyectos-destacados">🎯 Proyectos Destacados</a></td><td> <a href="#-formación-académica-y-técnica">📚 Formación Académica y Técnica</a></td>
+                           <td><a href="#-redes-sociales">🌐 Redes Sociales</a>/td>
                        </th>
-           </table>
-        </nav>
-    </header>
-    <section id="estudios">
-        <h2>📚Estudios</h2>
-        <ul>
-          <li>Ingeniería Biomédica - Universidad Nacional San Martin (Buenos Aires, Argentina) - En curso </li>
-            <ul><a href="https://www.unsam.edu.ar/escuelas/ecyt/172/ciencia/ingenieria-biomedica" target="_blank" >Plan de estudios</a></ul>
-            <li>Diseño UX / UI- Codo a Codo - 2do Cuatrimestre 2024 - Actualidad</li>
-            <ul><a href="#" target="_blank" >Plan de estudios</a></ul>
-            <li>Full Strack Java - Codo a Codo - 1er Cuatrimestre 2024</li>
-            <ul><a href="https://drive.google.com/file/d/1SSwNBdJUy-5h4A4aZHiOYTUvM8qEGYMi/view?usp=drive_link" target="_blank" >Plan de estudios</a></ul>
-          <li>Diplomatura en Ciencias de Datos e Inteligencia Artificial - Argentina Programa - Universidad Nacional de San Martin (2023) </li>
-            <ul><a href="https://www.argentina.gob.ar/sites/default/files/5._unsam_-_ciencia_de_datos_e_inteligencia_artificial.pdf" target="_blank" >Plan de estudios</a></ul>
-        </ul>
-    </section>
-    <section id="lenguajes">
-      <h2>🛠️Lenguajes y Herramientas que estoy aprendiendo:</h2>
-      <p align="left">
-    <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-    </div>
-    </section>
-    <section id="proyectos">
-        <h2>🚀Proyectos</h2>
-        <ul>
-            <li>Universidad</li>
-            <ul>
-                <li><a href="https://github.com/ro-fer/Procedimiento_de_Imagenes " target="_blank">Procesamiento de Imagenes</a></li>
-                <ul>
-                    <li><a href="https://github.com/ro-fer/TP-Final-Procesamiento-Imagenes" target="_blank">Trabajo Final</a></li>
-                </ul>
-                <li><a href="https://github.com/ro-fer/Electronica_Digital_II" target="_blank">Electrónica Dígital II</a></li>
-            </ul>
-            <li>Full Strack Java - Codo a Codo</li>
-            <ul>
-                <li><a href="https://ro-fer.github.io/Turisteando-siendo-Nativx/" target="_blank">"Turisteando siendo Nativx"</a></li>
-                <small>Primera página. Pre-entrega. Primera versión Abril 2024. </small>
-                <li><a href="https://matirnc.github.io/ProyectoCaC_FullStack_Java/">"Tusiteando siendo Nativx"</a></li>
-                <small>Primera pre entrega grupal. Integrantes:  
-                    <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
-                       <th>
-                           <a href="https://github.com/matirnc" target="_blank">Mati R</a></td> 
-                           <td><a href="https://github.com/Lautallarico" target="_blank">Lau Tallarico</a></td>
-                            <td><a href="https://github.com/Feofanes" target="_blank">Nahuel Laluce</a></td>
-                       </th>
-                   </table>
-                </small>
-            </ul>
-            <li>Proyectos Personales</li>
-            <ul>
-                <li><a href="https://github.com/ro-fer/BioGeeks" target="_blank">"BioGeeks"</a></li>
-                <small>Página con recursos útiles para estudiantes universitarios, basado en cuenta de Instagram de Difusión Científica.</small>
-            </ul>
-            <ul>
-                <li><a href="https://github.com/ro-fer/Pag-MUI-CyT" target="_blank">"Página de Recursos"</a></li>
-                <small>Primera version con recursos útiles para estudiantes universitarios.</small>
-            </ul>
-            <ul>
-                <li><a href="https://github.com/ro-fer/Desafios_Programacion" target="_blank">"Desafios de Programación"</a></li>
-                <small>Desafios hechos por el momento en python, sacados de distintas paginas de desafios. </small>
-            </ul>
-            <li>Diplomatura</li>
-            <li>FreeCodeCamp</li>
-            <small><i>Proyectos de practica para los certificados de <a href="https://www.freecodecamp.org/espanol/roh__fer" target="_blank">FreeCodeCamp</a></i></small>
-            <ul>
-                <li><a href="https://ro-fer.github.io/pagina-python/" target="_blank">Página web documentación Python</a></li>
-            </ul>
-        </ul>
-    </section>
-     <section id="redes">
-        <h2> Mis redes son:</h2>
-        <a href="https://www.linkedin.com/in/rocio-bfernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="rocio-bfernandez" height="30" width="40" /></a>
-     </section>
-</body>
-</html>
+    </table>
+</div>
+
+---
+
+## 🔍 Sobre mí
+
+Soy una apasionada por la tecnología, el diseño UX/UI y la ciencia de datos.  
+Actualmente estoy cursando la carrera de **Ingeniería Biomédica** y complementándola con formación técnica en desarrollo Full Stack Java y diseño web.  
+Me encanta aprender programando, resolver desafíos y crear soluciones útiles 💡
+
+---
+
+## 🔧 Tecnologías que uso
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
+  <img src="https://img.shields.io/badge/SQL-0084bd?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="30" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" />
+</div>
+
+---
+
+## 🎯 Proyectos Destacados 
+
+### 🧪 BioGeeks  
+> Sitio web hecho con HTML, CSS y JavaScript para estudiantes universitarios. Inspirado en mi cuenta de difusión científica en Instagram.  
+🔗 [Ver proyecto](https://github.com/ro-fer/BioGeeks) 
+
+### 📚 Página de Recursos  
+> Mi primer proyecto personal para compartir herramientas educativas.  
+🔗 [Ver proyecto](https://github.com/ro-fer/Pagina-de-recursos) 
+
+### 🧠 Desafíos de Programación  
+> Colección de ejercicios resueltos en Python, tomados de plataformas como FreeCodeCamp.  
+🔗 [Ver proyecto](https://github.com/ro-fer/Desafios_programacion) 
+
+### 🌐 Turisteando siendo Nativx (Proyecto Individual)  
+> Mi primera página web hecha durante el curso de Codo a Codo.  
+🔗 [Ver proyecto](https://github.com/ro-fer/Turisteando-siendo-Nativx) 
+
+### 🏢 Tusiteando siendo Nativx (Proyecto Grupal)  
+> Trabajo colaborativo realizado con:
+> - Mati R  
+> - Lau Tallarico  
+> - Nahuel Laluce  
+🔗 [Ver proyecto](https://github.com/ro-fer/TusiTEANDO-siendo-nativx) 
+
+---
+
+## 📚 Formación Académica y Técnica
+
+🎓 **Ingeniería Biomédica** – Universidad Nacional de San Martín (UNSAM) – En curso  
+💻 **Full Stack Java** – Codo a Codo – 1er Cuatrimestre 2024  
+🎨 **Diseño UX/UI** – Codo a Codo – 2do Cuatrimestre 2024  
+📊 **Diplomatura en Ciencia de Datos e IA** – Argentina Programa & UNSAM – 2023  
+🎓 **FreeCodeCamp** – Certificaciones en desarrollo web  
+
+---
+
+## 🌐 Redes Sociales
+
+<div align="center">
+  <a href="https://linkedin.com/in/tu-linkedin"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://instagram.com/tu-instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="30" />
+  </a>
+  <a href="https://twitter.com/tu-twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30" />
+  </a>
+</div>
+
+---
+
+## 📊 Mis contribuciones en GitHub 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ro-fer&show_icons=true&theme=synthwave)
