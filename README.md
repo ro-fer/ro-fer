@@ -26,7 +26,7 @@ También soy creadora de contenido científico en Instagram 🧪📚
 ## 🔍 Sobre mí
 
 Soy una apasionada por la tecnología, el diseño UX/UI y la ciencia de datos.  
-Actualmente estoy cursando la carrera de **Ingeniería Biomédica** y complementándola con formación técnica en desarrollo Full Stack Java y diseño web.  
+Actualmente estoy cursando la carrera de **Ingeniería Biomédica** y complementándola con formación técnica en CS de datos.  
 Me encanta aprender programando, resolver desafíos y crear soluciones útiles 💡
 
 ---
