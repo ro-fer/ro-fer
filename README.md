@@ -53,10 +53,6 @@ Me encanta aprender programando, resolver desafíos y crear soluciones útiles �
 > Sitio web hecho con HTML, CSS y JavaScript para estudiantes universitarios. Inspirado en mi cuenta de difusión científica en Instagram.  
 
 
-### [📚 Página de Recursos](https://github.com/ro-fer/Pagina-de-recursos)  
-> Mi primer proyecto personal para compartir herramientas educativas.  
-
-
 ### [🧠 Desafíos de Programación ](https://github.com/ro-fer/Desafios_programacion) 
 > Colección de ejercicios resueltos en Python, tomados de plataformas como FreeCodeCamp.  
 
