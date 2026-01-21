@@ -1,20 +1,22 @@
 # Hola 👋 Soy Rocío  
 🎓 *Ingeniera Biomédica en formación* | 💻 Apasionada por la tecnología | 🇦🇷 Buenos Aires  
 
-Soy estudiante de **Ingeniería Biomédica** en la UNSAM, complementando mi carrera con formación técnica en **desarrollo Full Stack Java**, **diseño UX/UI** y **ciencia de datos**.  
+Soy estudiante de **Ingeniería Biomédica** en la UNSAM, complementando mi carrera con diversos cursos como 
+**desarrollo Full Stack Java**, **diseño UX/UI** y **ciencia de datos**.  
 Me encanta aprender programando, resolver desafíos y crear soluciones útiles 💡  
-También soy creadora de contenido científico en Instagram 🧪📚  
+También estoy intentando crear contenido de difusión científica en Instagram 🧪📚  
 
 ---
 
 ## 📚 Índice
 
 <div align="center">
-    <table> <!-- ESTO NO SE HACE PERO LA VERDAD QUE PARA IR ARMANDO NO QUEDA TAAAN MAL-->
+    <table>
       <th>
         <a href="#-sobre-mí">🔍 Sobre mí</a> </td> 
         <td><a href="#-tecnologías-que-uso">🔧 Tecnologías que uso</a></td>
         <td> <a href="#-proyectos-destacados">🎯 Proyectos Destacados</a></td>
+        <td> <a href="#-proyectos-universitarios">🏫 Proyectos universitarios</a></td>
         <td> <a href="#-formación-académica-y-técnica">📚 Formación Académica y Técnica</a></td>
         <td><a href="#-redes-sociales">🌐 Redes Sociales</a>
       </th>
@@ -25,9 +27,8 @@ También soy creadora de contenido científico en Instagram 🧪📚
 
 ## 🔍 Sobre mí
 
-Soy una apasionada por la tecnología, el diseño UX/UI y la ciencia de datos.  
-Actualmente estoy cursando la carrera de **Ingeniería Biomédica** y complementándola con formación técnica en CS de datos.  
-Me encanta aprender programando, resolver desafíos y crear soluciones útiles 💡
+Soy una persona curiosa y apasionada por aprender, especialmente sobre tecnología, diseño UX/UI y ciencia de datos.  
+Actualmente curso Ingeniería Biomédica y complemento la carrera con distintos cursos técnicos.
 
 ---
 
@@ -66,6 +67,22 @@ Me encanta aprender programando, resolver desafíos y crear soluciones útiles �
 > - Mati R  
 > - Lau Tallarico  
 > - Nahuel Laluce  
+ 
+---
+## 🏫 Proyectos universitarios
+
+Algunos trabajos realizados durante la carrera de Ingeniería Biomédica → ver más():
+
+- **Electrónica Digital I**  
+  - [Voltímetro digital con salida VGA (VHDL)](https://github.com/ro-fer/TP_Final_ED1) 
+  - [Trabajo regularizador](https://github.com/ro-fer/TP_Regularizador_ED1)
+
+- **Electrónica Digital II**  
+  - [Guías y prácticas](https://github.com/ro-fer/Electronica_Digital_II)  
+
+- **Procesamiento de Imágenes**  
+  - [Ejercicios cursada (Matlab)](https://github.com/ro-fer/Procesamiento_de_Imagenes)
+  - [Final grupal (Matlab)](https://github.com/ro-fer/TP-Final-Procesamiento-Imagenes)
 
 ---
 
@@ -93,9 +110,3 @@ Me encanta aprender programando, resolver desafíos y crear soluciones útiles �
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
 </div>
-
----
-
-## 📊 Mis contribuciones en GitHub 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ro-fer&show_icons=true&theme=synthwave)
