@@ -71,7 +71,7 @@ Actualmente curso Ingeniería Biomédica y complemento la carrera con distintos 
 ---
 ## 🏫 Proyectos universitarios
 
-Algunos trabajos realizados durante la carrera de Ingeniería Biomédica → ver más():
+Algunos trabajos realizados durante la carrera de Ingeniería Biomédica → [ver más](https://github.com/ro-fer/ro-fer/blob/main/proyectos_universitarios.md) :
 
 - **Electrónica Digital I**  
   - [Voltímetro digital con salida VGA (VHDL)](https://github.com/ro-fer/TP_Final_ED1) 
