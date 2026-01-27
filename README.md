@@ -1,7 +1,7 @@
 # Hola 👋 Soy Rocío  
 🎓 *Ingeniera Biomédica en formación* | 💻 Apasionada por la tecnología | 🇦🇷 Buenos Aires  
 
-Soy estudiante de **Ingeniería Biomédica** en la UNSAM, complemento mi carrera con diversos cursos como  de
+Soy estudiante de **Ingeniería Biomédica** en la UNSAM, complemento mi carrera con cursos en
 **desarrollo Full Stack Java**, **diseño UX/UI** y **ciencia de datos**.  
 Me encanta aprender programando, resolver desafíos y crear soluciones útiles 💡  
 También estoy intentando crear contenido de difusión científica en Instagram 🧪📚  
