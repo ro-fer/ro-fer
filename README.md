@@ -1,7 +1,7 @@
 # Hola 👋 Soy Rocío  
 🎓 *Ingeniera Biomédica en formación* | 💻 Apasionada por la tecnología | 🇦🇷 Buenos Aires  
 
-Soy estudiante de **Ingeniería Biomédica** en la UNSAM, complementando mi carrera con diversos cursos como 
+Soy estudiante de **Ingeniería Biomédica** en la UNSAM, complemento mi carrera con diversos cursos como  de
 **desarrollo Full Stack Java**, **diseño UX/UI** y **ciencia de datos**.  
 Me encanta aprender programando, resolver desafíos y crear soluciones útiles 💡  
 También estoy intentando crear contenido de difusión científica en Instagram 🧪📚  
@@ -14,7 +14,7 @@ También estoy intentando crear contenido de difusión científica en Instagram 
     <table>
       <th>
         <a href="#-sobre-mí">🔍 Sobre mí</a> </td> 
-        <td><a href="#-tecnologías-que-uso">🔧 Tecnologías que uso</a></td>
+        <td><a href="#-stack-tecnológico">🔧 Stack tecnológico </a></td>
         <td> <a href="#-proyectos-destacados">🎯 Proyectos Destacados</a></td>
         <td> <a href="#-proyectos-universitarios">🏫 Proyectos universitarios</a></td>
         <td> <a href="#-formación-académica-y-técnica">📚 Formación Académica y Técnica</a></td>
@@ -32,7 +32,7 @@ Actualmente curso Ingeniería Biomédica y complemento la carrera con distintos 
 
 ---
 
-## 🔧 Tecnologías que uso
+## 🔧 Stack tecnológico
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30" />
@@ -44,6 +44,11 @@ Actualmente curso Ingeniería Biomédica y complemento la carrera con distintos 
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
   <img src="https://img.shields.io/badge/SQL-0084bd?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" height="30" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" />
+    <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" height="30" />
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBi" height="30" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30" />
+    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="C" height="30" />
 </div>
 
 ---
