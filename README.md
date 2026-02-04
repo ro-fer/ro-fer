@@ -56,11 +56,12 @@ Actualmente curso Ingeniería Biomédica y complemento la carrera con distintos 
 > Mi primera página web hecha durante el curso de Codo a Codo.  
 
 
-###  [🏢 Tusiteando siendo Nativx (Proyecto Grupal) ](https://github.com/ro-fer/TusiTEANDO-siendo-nativx) 
+###  [🏢 Tusiteando siendo Nativx (Proyecto Grupal) ](https://matirnc.github.io/ProyectoCaC_FullStack_Java/) 
 > Trabajo colaborativo realizado con:
-> - Mati R  
-> - Lau Tallarico  
-> - Nahuel Laluce  
+> - [Mati R](https://github.com/matirnc)
+> - [Lau Tallarico](https://github.com/Lautallarico)
+> - [Nahuel Laluce](https://github.com/Feofanes)
+> - [Maldonado Mauricio]()
  
 ---
 ## 🏫 Proyectos universitarios
