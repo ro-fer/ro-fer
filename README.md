@@ -1,107 +1,117 @@
-# Hola 👋 Soy Rocío  
-🎓 *Ingeniera Biomédica en formación* | 💻 Apasionada por la tecnología | 🇦🇷 Buenos Aires  
+# ¡Hola! Soy Rocío  👋
 
-Soy estudiante de **Ingeniería Biomédica** en la UNSAM, complemento mi carrera con cursos en
-**desarrollo Full Stack Java**, **diseño UX/UI** y **ciencia de datos**.  
-Me encanta aprender programando, resolver desafíos y crear soluciones útiles 💡  
-También estoy intentando crear contenido de difusión científica en Instagram 🧪📚  
+### Estudiante de Ingeniería Biomédica | Desarrollo de software, electrónica y tecnología aplicada a la ciencia 🧬💻
 
----
+Soy estudiante de **Ingeniería Biomédica en la Universidad Nacional de San Martín (UNSAM)**. Me interesa desarrollar soluciones que integren programación, electrónica, procesamiento de señales e imágenes y análisis de datos.
 
-## 📚 Índice
-
-<div align="center">
-    <table>
-      <th>
-        <a href="#-sobre-mí">🔍 Sobre mí</a> </td> 
-        <td><a href="#-stack-tecnológico">🔧 Stack tecnológico </a></td>
-        <td> <a href="#-proyectos-destacados">🎯 Proyectos Destacados</a></td>
-        <td> <a href="#-proyectos-universitarios">🏫 Proyectos universitarios</a></td>
-        <td> <a href="#-formación-académica-y-técnica">📚 Formación Académica y Técnica</a></td>
-        <td><a href="#-redes-sociales">🌐 Redes Sociales</a>
-      </th>
-    </table>
-</div>
+Complemento mi formación universitaria con conocimientos de desarrollo web, ciencia de datos, inteligencia artificial y diseño UX/UI. Disfruto aprender mediante proyectos, resolver problemas y explorar cómo la tecnología puede aplicarse a la salud, la ciencia y la educación.
 
 ---
 
-## 🔍 Sobre mí
+## 🔬 Áreas de interés
 
-Soy una persona curiosa y apasionada por aprender, especialmente sobre tecnología, diseño UX/UI y ciencia de datos.  
-Actualmente curso Ingeniería Biomédica y complemento la carrera con distintos cursos técnicos.
-
----
-
-## 🔧 Stack tecnológico
-
-| Área | Tecnologías |
-|------|-------------|
-| 🧑‍💻 Lenguajes de programación | Java · Python · JavaScript · C |
-| 🌐 Desarrollo web | HTML5 · CSS3 |
-| 🛠️ Herramientas y plataformas | Git · GitHub · Docker · Figma · LaTeX · Ollama |
-| 📊 Datos y visualización | SQL · Power BI |
-
-
-## 🎯 Proyectos Destacados 
-
-### [🧪 BioGeeks ](https://github.com/ro-fer/BioGeeks)  
-> Sitio web hecho con HTML, CSS y JavaScript para estudiantes universitarios. Inspirado en mi cuenta de difusión científica en Instagram.  
-
-
-### [🧠 Desafíos de Programación ](https://github.com/ro-fer/Desafios_programacion) 
-> Colección de ejercicios resueltos en Python, tomados de plataformas como FreeCodeCamp.  
-
-
-### [🌐 Turisteando siendo Nativx (Proyecto Individual)](https://github.com/ro-fer/Turisteando-siendo-Nativx)   
-> Mi primera página web hecha durante el curso de Codo a Codo.  
-
-
-###  [🏢 Tusiteando siendo Nativx (Proyecto Grupal) ](https://matirnc.github.io/ProyectoCaC_FullStack_Java/) 
-> Trabajo colaborativo realizado con:
-> - [Mati R](https://github.com/matirnc)
-> - [Lau Tallarico](https://github.com/Lautallarico)
-> - [Nahuel Laluce](https://github.com/Feofanes)
-> - [Maldonado Mauricio]()
- 
----
-## 🏫 Proyectos universitarios
-
-Algunos trabajos realizados durante la carrera de Ingeniería Biomédica → [ver más](https://github.com/ro-fer/ro-fer/blob/main/proyectos_universitarios.md) :
-
-- **Electrónica Digital I**  
-  - [Voltímetro digital con salida VGA (VHDL)](https://github.com/ro-fer/TP_Final_ED1) 
-  - [Trabajo regularizador](https://github.com/ro-fer/TP_Regularizador_ED1)
-
-- **Electrónica Digital II**  
-  - [Guías y prácticas](https://github.com/ro-fer/Electronica_Digital_II)  
-
-- **Procesamiento de Imágenes**  
-  - [Ejercicios cursada (Matlab)](https://github.com/ro-fer/Procesamiento_de_Imagenes)
-  - [Final grupal (Matlab)](https://github.com/ro-fer/TP-Final-Procesamiento-Imagenes)
+* Tecnología aplicada a la salud
+* Procesamiento de señales e imágenes biomédicas
+* Programación y desarrollo de software
+* Sistemas embebidos y electrónica digital
+* Ciencia de datos e inteligencia artificial
+* Educación y divulgación científica
 
 ---
 
-## 📚 Formación Académica y Técnica
+## 🛠️ Tecnologías y herramientas
 
-[![UNSAM](https://img.shields.io/badge/UNSAM-Ingeniería_Biomédica-blue?logo=university&logoColor=white)](https://www.unsam.edu.ar/escuelas/ecyt/172/ciencia/ingenieria-biomedica)  
-🎓 **Ingeniería Biomédica** – *En curso*
+### Lenguajes
 
-[![Codo a Codo - Java](https://img.shields.io/badge/Codo_a_Codo-Full_Stack_Java-green?logo=java)](https://drive.google.com/file/d/1SSwNBdJUy-5h4A4aZHiOYTUvM8qEGYMi/view?usp=drive_link)  
-💻 **Full Stack Java** – *1er Cuatrimestre 2024*
+`Python` · `C` · `Java` · `JavaScript` · `MATLAB` · `VHDL` · `SQL`
 
-[![Codo a Codo - UX/UI](https://img.shields.io/badge/Codo_a_Codo-Diseño_UX_UI-purple?logo=figma)](#)  
-🎨 **Diseño UX/UI** – *2do Cuatrimestre 2024*
+### Desarrollo web
 
-[![Argentina Programa](https://img.shields.io/badge/Argentina_Programa-Ciencia_de_Datos-orange)](https://www.argentina.gob.ar/sites/default/files/5._unsam_-_ciencia_de_datos_e_inteligencia_artificial.pdf)  
-📊 **Ciencia de Datos e IA** – *2023*
+`HTML5` · `CSS3` · `Flask`
 
+### Electrónica y sistemas
+
+`STM32` · `FPGA` · `UART` · `DMA` · `Programación bare metal`
+
+### Herramientas
+
+`Git` · `GitHub` · `Docker` · `Linux` · `Figma` · `LaTeX` · `Power BI` · `Ollama`
 
 ---
 
-## 🌐 Redes Sociales
+### 🧩 [Procesamiento digital de imágenes](https://github.com/ro-fer/TP-Final-Procesamiento-Imagenes)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rocio-bfernandez/"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
-  </a>
-</div>
+Trabajo final desarrollado en MATLAB que aplica técnicas de segmentación por color y procesamiento de imágenes para la reconstrucción automática de rompecabezas.
+
+**Tecnologías:** MATLAB · procesamiento de imágenes · segmentación
+
+---
+
+### ⚡ [Electrónica Digital II](https://github.com/ro-fer/Electronica_Digital_II)
+
+Prácticas de programación en lenguaje C sobre microcontroladores STM32, incluyendo GPIO, UART, DMA, registros y programación bare metal.
+
+**Tecnologías:** C · STM32 · sistemas embebidos · electrónica digital
+
+---
+
+### 🖥️ [Voltímetro digital con salida VGA](https://github.com/ro-fer/TP_Final_ED1)
+
+Implementación de un voltímetro digital en VHDL sobre una FPGA, con adquisición de señales analógicas y visualización mediante salida VGA.
+
+**Tecnologías:** VHDL · FPGA · electrónica digital
+
+---
+
+### 🤖 [Chatbot con documentos](https://github.com/ro-fer/chat-bot-pruebas)
+
+Asistente desarrollado con Python, Flask y Groq, capaz de procesar documentos y responder consultas mediante una interfaz web.
+
+**Tecnologías:** Python · Flask · IA generativa · procesamiento de documentos
+
+---
+
+### 📚 [BioApuntes](https://github.com/ro-fer/BioApuntes)
+
+Plataforma colaborativa para centralizar apuntes, guías, parciales y otros recursos académicos de Ingeniería Biomédica en la UNSAM.
+
+**Áreas:** educación · comunidad · desarrollo web
+
+---
+
+## 🌱 Otros proyectos
+
+* [BioGeeks](https://github.com/ro-fer/BioGeeks) — Recursos educativos sobre ciencia, tecnología, matemática y programación.
+* [Métodos Numéricos](https://github.com/ro-fer/Metodos_Numericos) — Ejercicios de métodos numéricos desarrollados en MATLAB.
+* [Desafíos de Programación](https://github.com/ro-fer/Desafios_Programacion) — Problemas resueltos para practicar lógica y algoritmos.
+* [Codeforces Problemset](https://github.com/ro-fer/Codeforces-problemset) — Soluciones de programación competitiva.
+* [Desafíos de Codewars](https://github.com/ro-fer/Desafios_Codewars) — Ejercicios de algoritmos y resolución de problemas.
+* [Turisteando siendo Nativx](https://github.com/ro-fer/Turisteando-siendo-Nativx) — Sitio turístico desarrollado como proyecto de aprendizaje web.
+
+---
+
+## 🎓 Formación
+
+### Ingeniería Biomédica
+
+**[Universidad Nacional de San Martín — UNSAM](https://www.unsam.edu.ar/escuelas/ecyt/172/ciencia/ingenieria-biomedica)**
+En curso
+
+### Formación complementaria
+
+* **[Full Stack Java](https://drive.google.com/file/d/1SSwNBdJUy-5h4A4aZHiOYTUvM8qEGYMi/view?usp=drive_link)** — Codo a Codo 
+* **[Diseño UX/UI](https://img.shields.io/badge/Codo_a_Codo-Diseño_UX_UI-purple?logo=figma)** — Codo a Codo
+* **[Ciencia de Datos e Inteligencia Artificial](https://www.argentina.gob.ar/sites/default/files/5._unsam_-_ciencia_de_datos_e_inteligencia_artificial.pdf)** — Argentina Programa
+
+---
+
+## 📫 Contacto
+
+Podés encontrarme en:
+
+* [LinkedIn](https://www.linkedin.com/in/rocio-bfernandez/)
+* [GitHub](https://github.com/ro-fer)
+
+---
+
+> Me interesa seguir aprendiendo, colaborar en proyectos interdisciplinarios y crear tecnología con impacto en la ciencia, la salud y la educación. 🚀
